@@ -1,4 +1,4 @@
-# 🎯 Employee Flight Risk Prediction
+# 🎯 Employee Flight Risk Analysis and Prediction
 
 A machine learning system that predicts employee attrition 
 risk with 100% accuracy, enabling proactive HR retention strategies.
@@ -12,7 +12,7 @@ risk with 100% accuracy, enabling proactive HR retention strategies.
 
 ## 📊 Project Overview
 
-Built a predictive model to identify employees at risk of leaving,
+Analysed and Built a predictive model to identify employees at risk of leaving,
 allowing HR teams to intervene proactively before resignation.
 
 ## 📈 Model Performance
