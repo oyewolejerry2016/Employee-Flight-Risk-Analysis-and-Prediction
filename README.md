@@ -5,7 +5,7 @@ risk with 85.62% accuracy, enabling proactive HR retention strategies.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
-![Accuracy](https://img.shields.io/badge/Accuracy-100%25-success.svg)
+![Accuracy](https://img.shields.io/badge/Accuracy-85.62%25-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ---
