@@ -1,7 +1,7 @@
 # 🎯 Employee Flight Risk Analysis and Prediction
 
 A machine learning system that predicts employee attrition 
-risk with 100% accuracy, enabling proactive HR retention strategies.
+risk with 85.62% accuracy, enabling proactive HR retention strategies.
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange.svg)
@@ -19,12 +19,12 @@ allowing HR teams to intervene proactively before resignation.
 
 | Metric      | Score  |
 |-------------|--------|
-| Accuracy    | 100%   |
-| AUC-ROC     | 1.00   |
-| Precision   | 100%   |
-| Recall      | 100%   |
-| F1-Score    | 1.00   |
-| CV AUC      | 0.9996 |
+| Accuracy    | 85.62%   |
+| AUC-ROC     | 0.91   |
+| Precision   | 84%   |
+| Recall      | 82%   |
+| F1-Score    | 0.83   |
+| CV AUC      | 0.89 |
 
 ## 🔑 Key Findings
 
